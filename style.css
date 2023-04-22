@@ -118,7 +118,9 @@ body {
 .btn:hover {
   opacity: 70%;
 }
-
+.result-disp{
+  font-weight: 300;
+}
 .btn_next {
   opacity: 0%;
   pointer-events: none;
